@@ -1,5 +1,10 @@
 # ZChat / ZTranslator
 
+![§uhil_20251124_201645](https://github.com/user-attachments/assets/b454e1da-495f-498c-a0c7-a16d75e96e1e)
+![§uhil_20251124_201037](https://github.com/user-attachments/assets/c7892026-2163-48c8-8109-064e02b6e853)
+
+
+
 Simple C++ console chat and translation application.
 
 ## Overview
